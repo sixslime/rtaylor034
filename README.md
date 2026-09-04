@@ -60,7 +60,6 @@
 │   │   └── video
 │   │       └── creator_shoutouts
 │   │           ├── exurb1a.yt
-│   │           ├── sylvanfranklin.yt
 │   │           ├── contrapoints.yt
 │   │           ├── philosophy_tube.yt
 │   │           ├── soirilab.yt
